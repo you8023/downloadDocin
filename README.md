@@ -1,13 +1,17 @@
 # downloadDocin
-免费自动下载豆丁网的资料Download materials in Docin freely and automatically
+
+免费自动下载豆丁网的资料
+
+Download materials in Docin freely and automatically
 
 如遇图片显示不全，请到我的[博客](https://www.jianshu.com/p/3817e06d6a92)观看，欢迎点赞留言！
 
 最近在查找资料时，在[豆丁网](https://www.docin.com/)上找到不少有用的资料，比如说一些课程的PPT之类的，但是只能在线看，而且还有广告，但是下载下来要钱，而且要价不菲，于是动起了歪脑筋，寻思着搞一个爬虫直接下载下来就可以离线看了，也方便资料的存储管理。本教程已完结，请放心食用，效果如下（该效果图采用[screentogif](https://www.screentogif.com/)软件录制，特此鸣谢）：
 
-![豆丁网资料自动下载效果展示](https://upload-images.jianshu.io/upload_images/5714082-1fe3a191f624324f.gif?imageMogr2/auto-orient/strip)
+![豆丁网资料自动下载效果展示](https://upload-images.jianshu.io/upload_images/5714082-ebcd2d95e82f1869.gif?imageMogr2/auto-orient/strip)
 
 本代码免费开源，不想了解原理的可以跳过到使用部分直接使用，希望能给我点个赞以支持开发，如果方便的话，github来一颗星星更好啦！
+
 开源代码地址：[https://github.com/you8023/downloadDocin](https://github.com/you8023/downloadDocin)，直接下载按照使用方法使用即可，如遇问题，欢迎在文章下方留言或在[github](https://github.com/you8023/downloadDocin/issues)上提issue。
 
 ## 开发环境
@@ -257,4 +261,4 @@ python downloadPPT.py
 4. 静等程序跑完即可，下载的资料在第一步输入的路径里面
 
 如图所示：
-![豆丁网资料自动下载效果展示](https://upload-images.jianshu.io/upload_images/5714082-1fe3a191f624324f.gif?imageMogr2/auto-orient/strip)
+![豆丁网资料自动下载效果展示](https://upload-images.jianshu.io/upload_images/5714082-ebcd2d95e82f1869.gif?imageMogr2/auto-orient/strip)
