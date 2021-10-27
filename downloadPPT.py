@@ -90,6 +90,6 @@ if __name__ == '__main__':
 	url = result[1]
 	print(title, url)
 	allNum = getPictures(url, path)
-	pdfName = title + '.pdf'
+	pdfName = path + title + '.pdf'
 	combinePictures2Pdf(path, pdfName, allNum)
 	removePictures(path, allNum)
