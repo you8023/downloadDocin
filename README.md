@@ -4,6 +4,8 @@
 
 Download materials in Docin freely and automatically
 
+**本工具已封装为EXE可执行程序，发布了release，可直接下载使用，无需搭建任何环境（想要了解实现细节的可以继续往下看）**
+
 如遇图片显示不全，请到我的[博客](https://www.jianshu.com/p/3817e06d6a92)观看，欢迎点赞留言！
 
 最近在查找资料时，在[豆丁网](https://www.docin.com/)上找到不少有用的资料，比如说一些课程的PPT之类的，但是只能在线看，而且还有广告，但是下载下来要钱，而且要价不菲，于是动起了歪脑筋，寻思着搞一个爬虫直接下载下来就可以离线看了，也方便资料的存储管理。本教程已完结，请放心食用，效果如下（该效果图采用[screentogif](https://www.screentogif.com/)软件录制，特此鸣谢）：
